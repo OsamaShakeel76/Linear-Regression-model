@@ -1,10 +1,10 @@
 # Car Price Prediction Model
 
 ## Overview
-This repository presents a **Car Price Prediction Model** developed using **Linear Regression** in Python.  
+This repository presents a Car Price Prediction Model developed using Linear Regression in Python.  
 The project demonstrates a structured machine learning workflow to estimate vehicle prices based on relevant features, applying industry-standard data analysis and modeling practices.
 
-The implementation is provided in a **Jupyter Notebook**, making it easy to review, reproduce, and extend.
+The implementation is provided in a Jupyter Notebook, making it easy to review, reproduce, and extend.
 
 ---
 
@@ -39,5 +39,11 @@ The project follows a systematic machine learning pipeline:
 - **NumPy**
 - **Scikit-learn**
 - **Matplotlib / Seaborn** (for visualization)
+
+  
+## Author
+**Osama Shakeel**
+
+Senior AI Engineer
 
 
